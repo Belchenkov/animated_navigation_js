@@ -6,13 +6,13 @@
 
 body {
   font-family: 'Rye', cursive;
-  background-color: #eafbff;
-  background-image: linear-gradient(to bottom, #eafbff 0%, #eafbff 50%, #74c17d 50%, #1e4419 100%);
+  background: url("./img/bg.png") repeat;
   display: flex;
-  align-items: center;
+  align-items: start;
   justify-content: center;
   height: 100vh;
   margin: 0;
+  padding-top: 100px;
 }
 
 nav {
