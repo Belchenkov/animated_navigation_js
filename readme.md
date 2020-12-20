@@ -2,7 +2,8 @@
 
 > Animated Navigation on Vanilla JS
 
-### [Demo]()
+### [Demo](http://animated-navigation-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://skr.sh/v5iJ1WkGGvc?a)
 
 ### Get started
 
